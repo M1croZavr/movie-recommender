@@ -11,7 +11,7 @@
 
 **Вклад участников команды:**
 - Лашуков Тимофей Денисович: notebooks/Reranking_boosting_modeling.ipynb, src/* кроме src/recsys/boosting/feature_engineering.py
-- Попов Никита Сергеевич: notebooks/sasrec.ipynb, src/recsys/boosting/feature_engineering.py
+- Попов Никита Сергеевич: notebooks/sasrec.ipynb, notebooks/bipartite_graph_link_pred.ipynb, src/recsys/boosting/feature_engineering.py
 - Фролов Кирилл Владимирович: notebooks/Bert4Rec.ipynb
-- Исаев Артем Олегович: notebooks/Heuristic_Faiss_solution.ipynb, src/recsys/boosting/feature_engineering.py
+- Исаев Артем Олегович: notebooks/Heuristic_Faiss_solution.ipynb, notebooks/sasrec.ipynb
 - Изотова Анастасия Романовна: notebooks/bipartite_graph_link_pred.ipynb, src/recsys/boosting/feature_engineering.py
